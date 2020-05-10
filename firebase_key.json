@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sedimentary-tracking",
+  "private_key_id": "eca9d52d322ad50b0c7885a9f6d6028d97484bad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDhrpPRd9Y5pYaK\nBr881wjiA6msXISRHqbHeubbZfIRKBRcQ4JkiKyDVOoV0ZvFatetgD5mcWZlyM6t\nnUkqrJINGmvNVs1X0d/A/TN7b96Kchl4yNue54Ys1QlN9nF0YvrxQGQVlXl5Utzz\n/Jnj2eqdlBoaTvLChCmG4gLaBt7SnkC330e5kaatj6ShoeXPw0pMzxPwv+Bnkcyi\nQsLw0ThmTZP0vk1neJFVsRecbz0N+Qbqp93sywXtVXMPOjCPac8+fVWYFYevPxNn\n3DMagEU9JYXnkD8qYKxbcTTj7g4QReRl6ioLVa16svvFyvogylFzUGbs6kLP/91r\n2J9j83wlAgMBAAECggEAK/QwXe+VDY0rct51iIfo9vv3o9YxC4KIwPky1TA5wRWp\nQX70elgUIU/8d1tnlz+D2grMHG+hndlKR44GngUWPO8UZ92sCJqblZ661COpmBU4\n2Mll3MEC5OBo+4Iv/pb4gNwlof6GthZpaiucXUAn7aDWpKETrsbGv7ptC8GizCog\ndlN93+dlzv3KNM0KqFEp53h68jN+pxPvweh4vzaTbsLXzbRbOUvtSeJ68KJfhpBv\nsduyGIkoruvsWDjruDcfY40zPr/hov+loZKLqMYPpDFeAiBe8dfhd7H19mLoZGMb\ndKc+VeAjYIdKflmoyqmGs883bd6gffIPI7Wj7pZrUQKBgQD9b4DllqCLOJOekgjD\ntI67niM9USWQ+OYOSL5ch9MoMmY7zWPfu0y76l4WxlgSnPao5jXgnJkerzClwko4\n6VhaPXBjb0lWQurU6vM0a6VOmwptLRVIUkQVThwx5e9V0ghMyCoW21ALmZ2YZzuJ\nKc7Q/T3Hx9Akq1QKLcQjy+6hHwKBgQDj9y5nhhM/wFMLYlNtkkOD1tEDvJhyrhPR\nzrjlAzMendYLXedJN4pJoT2RBP8DwP62ODP52+H5X0PIpP/u9igWr3MEXyC+PdpJ\n2wLiDl6a+GiM58KVkPmgIEbb1cjVI3SMymG/+J3gHvbXgNBH4f8+usmhsLvOJZUu\nBb74Lf5mOwKBgQCV10NCexhYuA6vhnAgJbTuQMVdD4lCeaarc175nmS+M242lW0j\nbr4jrKIMnSCdgKhlnBbmwi/V8Ia2unTfyTcvw3ubjsSxd8cYNAGvUKXgH9K+UhVv\nORR/9Dq/Vc930kKOAxq/gNOGyEBhR0fwBQP+lHvejskFpTZ+/iglcgGYyQKBgQCq\nPNPVkWVcjVY2wSXGRJzQnqIV5Uf/FApO+s5Oj1Ykff/zGxv2LFjD5XphitaZyg0s\nrMn7w/17yW2IL9fEbuS/FCSTVirQhsY1syzy/YIevnTtDMHeCZawwonH71179W87\nGINo5dOYI+d4RYTEuXtwL/MVITMOnjhKVxYmpco+MwKBgDjRCekZUaLF+SrIgzxy\n4r5EGEeVaEnBDK2wO1ZgVBI4H4eYvR+JO3jetSNJ90E2vKuMCl0CTy10YC9Xi7nz\nv3xcedNPwnHWg1+EsEJRuVGPN9Y3FUm2oFrSn0vFvFwfJp5NIzwto+vq9mdTrNC7\nCJ312xXtxdU8FBLuweMpJUt6\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wb8py@sedimentary-tracking.iam.gserviceaccount.com",
+  "client_id": "112027311737981237511",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wb8py%40sedimentary-tracking.iam.gserviceaccount.com"
+}
